@@ -15,6 +15,7 @@ class Menu extends Phaser.Scene {
         this.load.image('menu', 'assets/img/Menu.png' )
         this.load.image('title', 'assets/img/Title.png' )
         this.load.image('spaceship', 'assets/img/spaceship.png' )
+        this.load.image('spaceship2', 'assets/img/spaceship2.png' )
         this.load.image('base', 'assets/img/Base.png' )
         this.load.image('starfield', 'assets/img/Saul_starfield.png' )
         this.load.image('planets', 'assets/img/Planets.png' )
